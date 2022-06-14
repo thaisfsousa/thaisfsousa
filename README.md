@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+Hi everyone! 😃
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+I'm Thais, an avid self learner and my goal is to deepen my knowledge in programming languages to impact lives through education.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4eegll7009309l3o458ikjc/stats?cursusId=21&coalitionId=undefined" alt="thsousa's 42 stats" /></a>
