@@ -1,4 +1,4 @@
-## Hello there! My name is Thais,I'm a software engineer student from 42 Rio!
+## Hello there! My name is Thais, I'm a software engineer student from 42 Rio!
 
 <p align="center">
   <img width="250" src="https://github.com/thaisfsousa/thaisfsousa.github.io/blob/master/assets/2.gif">
